@@ -1,0 +1,12 @@
+.row{
+  display: flex;
+  flex-direction: row;
+
+}
+
+.dot{
+  height: 30px;
+  width: 30px;
+  border: solid 1px black;
+  background-color: rgb(58,56,56);
+}
