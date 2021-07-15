@@ -7,6 +7,12 @@
 .dot{
   height: 30px;
   width: 30px;
+  color: white;
   border: solid 1px black;
+  background-color: white;
+}
+
+.dot:empty
+{
   background-color: rgb(58,56,56);
 }
